@@ -13,3 +13,7 @@ This is a simple web form that allows users to submit their email address and Gi
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+
+try out the live version of the form [here](https://arrow66.github.io/Git-Form-Clearviction/).
